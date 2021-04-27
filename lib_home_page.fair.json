@@ -23,7 +23,7 @@
               {
                 "className": "Text",
                 "pa": [
-                  "对方水电费水电费水电费水电费You have pushed the button this many times:"
+                  "You have pushed the button this many times:"
                 ]
               },
               {
@@ -42,19 +42,6 @@
               }
             ]
           }
-        }
-      }
-    },
-    "floatingActionButton": {
-      "className": "FloatingActionButton",
-      "na": {
-        "onPressed": "#(_incrementCounter)",
-        "tooltip": "Increment",
-        "child": {
-          "className": "Icon",
-          "pa": [
-            "#(Icons.add)"
-          ]
         }
       }
     }
